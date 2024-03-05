@@ -4,6 +4,7 @@
     margin: 0%;
     padding: 0%;
     box-sizing: border-box;
+    text-decoration: none;
 }
 
 .container {
@@ -80,11 +81,11 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: 30px;
+    margin-top: 12px;
 }
 
 .sub {
-    width: 250px;
+    /* width: 130px; */
     height: 40px;
     background: #25DAC5;
     color: white;
@@ -106,7 +107,7 @@
 }
 
 .svg {
-    padding-top: 50px;
+    padding-top: 45px;
 }
 
 .end {
@@ -119,4 +120,7 @@
     color: #15143966;
     padding-top: 20px;
 
+}
+.padding-b{
+    padding-bottom: 5px;
 }
